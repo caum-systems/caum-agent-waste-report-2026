@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-23 18:50:10",
+  "total_sessions": 99167,
+  "total_steps": 2615295,
+  "n_resolved": 19591,
+  "n_unresolved": 79576,
+  "resolved_avg_pct_wasted": 4.04,
+  "unresolved_avg_pct_wasted": 13.83,
+  "cohens_d": 0.5477,
+  "loop_pct_of_waste": 98.7,
+  "sources": {
+    "local:llama": 4990,
+    "local:gpt4o": 5816,
+    "hf:swe-agent": 79773,
+    "local:claude": 8588
+  }
+}
